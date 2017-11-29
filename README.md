@@ -1,0 +1,1 @@
+I chose “public domain” license because I want to anyone can freely copy and use my materials that are not protected by intellectual property laws such as copyright, trademark, or patent laws. so anyone can use a public domain use my github permission, so nobody can ever own it.
